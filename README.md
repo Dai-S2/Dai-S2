@@ -13,4 +13,4 @@ Con experiencia en el manejo de grandes volúmenes de datos y en la implementaci
 - Docker, Hadoop, Hive, Spark
 
 ¿Quieres colaborar en un proyecto?
-Estoy siempre abierto a nuevas oportunidades y desafíos. Si tienes un proyecto en mente o simplemente quieres discutir ideas, no dudes en contactarme 😉
+Estoy siempre abierta a nuevas oportunidades y desafíos. Si tienes un proyecto en mente o simplemente quieres discutir ideas, no dudes en contactarme 😉
