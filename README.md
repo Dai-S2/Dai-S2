@@ -14,3 +14,5 @@ Con experiencia en el manejo de grandes volúmenes de datos y en la implementaci
 
 ¿Quieres colaborar en un proyecto?
 Estoy siempre abierta a nuevas oportunidades y desafíos. Si tienes un proyecto en mente o simplemente quieres discutir ideas, no dudes en contactarme 😉
+
+⚠️ Proyectos nuevos en curso 🔜
